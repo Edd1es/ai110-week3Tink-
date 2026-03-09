@@ -1,0 +1,5 @@
+# ByteBites
+
+## Task Summary
+
+The main idea of this activity was learning how to take a vague feature request and turn it into a clear system design before writing code. Students had to figure out what the core parts of the app were, like customers, menu items, menus, and orders, and model those as simple Python classes. I think one place students would struggle is deciding what information or behavior belongs in each class, especially when the feature request is a little open-ended. AI was helpful for quickly generating UML diagrams, class scaffolds, and rough method ideas, but it could also be misleading when it added extra classes or features that were not actually asked for. Because of that, students really need to compare AI output back to the original spec instead of assuming it is correct. One way I would guide a student without giving away the answer is by asking which class should actually own a certain piece of data or behavior. That usually helps them think through the structure more clearly on their own.
